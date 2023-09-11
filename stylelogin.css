@@ -1,0 +1,7 @@
+body {
+    background-color:linear-gradient(#00b3ff 0%, #00eaff 100%);;
+}
+#P1UN, #P2UN {
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
